@@ -6,6 +6,7 @@ Build the back end for an e-commerce site. Configure a working express.js API to
 
 # Visuals
 
+https://watch.screencastify.com/v/Kkko7f3AoJL53JI7hLRU
 
 # Installation
 
